@@ -1,0 +1,10 @@
+E:\C# Projects\YAMLSorter\YAMLSorterFrameworks\bin\Release\YAMLSorterFrameworks.exe.config
+E:\C# Projects\YAMLSorter\YAMLSorterFrameworks\bin\Release\YAMLSorterFrameworks.exe
+E:\C# Projects\YAMLSorter\YAMLSorterFrameworks\bin\Release\YAMLSorterFrameworks.pdb
+E:\C# Projects\YAMLSorter\YAMLSorterFrameworks\bin\Release\YamlDotNet.dll
+E:\C# Projects\YAMLSorter\YAMLSorterFrameworks\bin\Release\YamlDotNet.xml
+E:\C# Projects\YAMLSorter\YAMLSorterFrameworks\obj\Release\YAMLSorterFrameworks.csproj.AssemblyReference.cache
+E:\C# Projects\YAMLSorter\YAMLSorterFrameworks\obj\Release\YAMLSorterFrameworks.csproj.CoreCompileInputs.cache
+E:\C# Projects\YAMLSorter\YAMLSorterFrameworks\obj\Release\YAMLSort.CFBA4BF4.Up2Date
+E:\C# Projects\YAMLSorter\YAMLSorterFrameworks\obj\Release\YAMLSorterFrameworks.exe
+E:\C# Projects\YAMLSorter\YAMLSorterFrameworks\obj\Release\YAMLSorterFrameworks.pdb
